@@ -199,7 +199,7 @@ margin: 20px; /* Space around the element */
         text-align: justify; /* Text alignment as justify */
         bottom: 10px;
         width: 800px;
-        left: 60px;/* Adjusted to move a bit to the left */
+        right: -870px;/* Adjusted to move a bit to the left */
         padding: 20px; /* Adds padding inside the element */
         background-color: #f0f8ff; /* Light background color */
         border: 1px solid #1A5B6F; /* Solid border matching the text color */
@@ -208,6 +208,7 @@ margin: 20px; /* Space around the element */
         margin: 20px; /* Space around the element */
         }
         #motivation-h {
+            justify-content: right;
             color: #767575;
         }
         #history-h{
